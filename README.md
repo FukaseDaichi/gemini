@@ -1,12 +1,5 @@
 # Gemini を試す
 
-ユーザー設定
-
-```
-git config user.name "FukaseDaichi"
-git config user.email "pecoteach@yahoo.co.jp"
-```
-
 ## Next.js のプロジェクト作成
 
 以下の`my-app`は好きな名前にする。
